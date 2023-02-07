@@ -1,0 +1,157 @@
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\bin\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Views\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\bin\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Views\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\ViewModels.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\ViewModels.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Views\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\ViewModels.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\ViewModels.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\AddCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\CarsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CarUserControls\EditCarUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\AddCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\CustomersViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\CustomerUserControls\EditCustomerUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\MainMenuUserControls\MainMenuUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\AddRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\EditRentalUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\UserControls\RentalUserControls\RentalsViewUserControl.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Views\obj\Debug\net6.0-windows\ref\Views.dll

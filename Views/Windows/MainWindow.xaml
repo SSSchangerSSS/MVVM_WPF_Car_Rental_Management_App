@@ -1,0 +1,58 @@
+﻿<Window x:Class="Views.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Style="{StaticResource MainWindowStyle}"
+        WindowStartupLocation="CenterScreen"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        MouseDoubleClick="Window_MouseDoubleClick">
+
+    <!--window style is set to None,we should use windowChrome so that user can resize window-->
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="1"
+                      CornerRadius="0"
+                      ResizeBorderThickness="4"
+                      GlassFrameThickness="0">
+        </WindowChrome>
+    </WindowChrome.WindowChrome>
+
+    <!--background is set to transparent so that we can have corner in our window-->
+    <Border  Background="#FF303030"
+             CornerRadius="30 30 30 30">
+
+        <!--Main grid-->
+        <Grid>
+
+            <!--border for displaying date,time and number of (customers or cars or rentals ) with userControls-->
+            <Border VerticalAlignment="Bottom"
+                    Height="40"
+                    CornerRadius="0 0 30 30"
+                    Background="#FF673AB7">
+                <!--grid with three column for displaying date,time and number of (customers or cars or rentals ) using userControls.
+                the third column is empty and in usercontrols we fill it with a grid and a text block-->
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <!--displaying Date with textblock-->
+                    <TextBlock Grid.Column="0"
+                               Style="{StaticResource StatusBarTextBlock}"
+                               Text="{Binding CurrentDate}"></TextBlock>
+                    <!--displaying Time with textblock-->
+                    <TextBlock Grid.Column="1"
+                               Style="{StaticResource StatusBarTextBlock}"
+                               Text="{Binding CurrentTime}" />
+                </Grid>
+
+            </Border>
+
+            <!--using contentControl to display current view and its viewModel with data template-->
+            <ContentControl Content="{Binding CurrentViewModel}" />
+
+        </Grid>
+    </Border>
+</Window>

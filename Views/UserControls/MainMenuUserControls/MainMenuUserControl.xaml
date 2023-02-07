@@ -1,0 +1,123 @@
+﻿<UserControl x:Class="Views.UserControls.MainMenuUserControls.MainMenuUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             d:MinWidth="800"
+             d:MinHeight="600"
+             FontSize="12">
+    <Grid><!--Main grid-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+        
+        <!--grid for row 0 (app icon and exit button)-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <!--exit button-->
+            <Button Grid.Column="2"
+                    materialDesign:ButtonAssist.CornerRadius="90"
+                    MinHeight="70"
+                    MinWidth="70"
+                    Margin="12"
+                    VerticalAlignment="top"
+                    HorizontalAlignment="Right"
+                    Background="Transparent"
+                    BorderBrush="white"
+                    Command="{Binding ExitCommand}">
+                <materialDesign:PackIcon Grid.Column="2"
+                                         Kind="Power"
+                                         MinHeight="50"
+                                         MinWidth="50"
+                                         VerticalAlignment="Stretch"
+                                         HorizontalAlignment="Stretch"
+                                         Foreground="white" />
+            </Button>
+            <!---app icon-->
+            <materialDesign:TransitioningContent Grid.Column="1">
+                <materialDesign:TransitioningContent.OpeningEffects>
+                    <materialDesign:TransitionEffect Kind="FadeIn" />
+                    <materialDesign:TransitionEffect Kind="SlideInFromTop" />
+                </materialDesign:TransitioningContent.OpeningEffects>
+                <materialDesign:PackIcon Kind="TruckCheck"
+                                         MinHeight="195"
+                                         MinWidth="195"
+                                         VerticalAlignment="Bottom"
+                                         HorizontalAlignment="Center"
+                                         Foreground="#FF673AB7" />
+            </materialDesign:TransitioningContent>
+        </Grid>
+
+        <!--app name textblock-->
+        <TextBlock Grid.Row="1"
+                   Style="{StaticResource MainMenuTextBlocksWithAnimation}">Car Rental Management Application!</TextBlock>
+
+        <!--grid for row 2 (for buttons to navigate)-->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <!--Customers page button-->
+            <Button Grid.Column="0"
+                    HorizontalAlignment="Right"
+                    Style="{StaticResource MainMenuButtonsWithAnimation}"
+                    Command="{Binding GoToCustomersCommand}">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Kind="Person"
+                                             MinHeight="70"
+                                             MinWidth="70"
+                                             VerticalAlignment="Center"
+                                             HorizontalAlignment="Center"
+                                             Foreground="White" />
+                    <TextBlock>Customer Management</TextBlock>
+                </StackPanel>
+            </Button>
+
+            <!--Cars page button-->
+            <Button Grid.Column="1"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource MainMenuButtonsWithAnimation}"
+                    Command="{Binding GoToCarsCommand}">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Kind="Car"
+                                             MinHeight="70"
+                                             MinWidth="70"
+                                             VerticalAlignment="Center"
+                                             HorizontalAlignment="Center"
+                                             Foreground="White" />
+                    <TextBlock>Car Management</TextBlock>
+                </StackPanel>
+            </Button>
+
+            <!--Rentals page button-->
+            <Button Grid.Column="2"
+                    HorizontalAlignment="Left"
+                    Style="{StaticResource MainMenuButtonsWithAnimation}"
+                    Command="{Binding GoToRentalsCommand}">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Kind="Paper"
+                                             MinHeight="70"
+                                             MinWidth="70"
+                                             VerticalAlignment="Center"
+                                             HorizontalAlignment="Center"
+                                             Foreground="White" />
+                    <TextBlock>Rental Management</TextBlock>
+                </StackPanel>
+            </Button>
+            
+        </Grid>
+
+    </Grid>
+</UserControl>

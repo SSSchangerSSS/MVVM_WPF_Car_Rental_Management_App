@@ -1,0 +1,41 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:CustomerUserControls="clr-namespace:Views.UserControls.CustomerUserControls;assembly=Views"
+                    xmlns:CarUserControls="clr-namespace:Views.UserControls.CarUserControls;assembly=Views"
+                    xmlns:RentalUserControls="clr-namespace:Views.UserControls.RentalUserControls;assembly=Views"
+                    xmlns:MainMenuUserControls="clr-namespace:Views.UserControls.MainMenuUserControls;assembly=Views"
+                    xmlns:CustomerVms="clr-namespace:ViewModels.ViewModels.CustomerViewModels;assembly=ViewModels"
+                    xmlns:CarVms="clr-namespace:ViewModels.ViewModels.CarViewModels;assembly=ViewModels"
+                    xmlns:RentalVms="clr-namespace:ViewModels.ViewModels.RentalViewModels;assembly=ViewModels"
+                    xmlns:MainMenuVms="clr-namespace:ViewModels.ViewModels.MainMenuViewModels;assembly=ViewModels">
+    <DataTemplate DataType="{x:Type MainMenuVms:MainMenuViewModel }">
+        <MainMenuUserControls:MainMenuUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type CustomerVms:AddCustomerViewModel}">
+        <CustomerUserControls:AddCustomerUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type CustomerVms:CustomersViewModel}">
+        <CustomerUserControls:CustomersViewUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type CustomerVms:EditCustomerViewModel}">
+        <CustomerUserControls:EditCustomerUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type CarVms:AddCarViewModel}">
+        <CarUserControls:AddCarUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type CarVms:CarsViewModel}">
+        <CarUserControls:CarsViewUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type CarVms:EditCarViewModel}">
+        <CarUserControls:EditCarUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type RentalVms:AddRentalViewModel}">
+        <RentalUserControls:AddRentalUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type RentalVms:RentalsViewModel}">
+        <RentalUserControls:RentalsViewUserControl />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type RentalVms:EditRentalViewModel}">
+        <RentalUserControls:EditRentalUserControl />
+    </DataTemplate>
+</ResourceDictionary>

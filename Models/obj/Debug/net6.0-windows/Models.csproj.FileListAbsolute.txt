@@ -1,0 +1,52 @@
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.deps.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\refint\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp\Models\obj\Debug\net6.0-windows\ref\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\bin\Debug\net6.0-windows\Models.deps.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\refint\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - Copy\Models\obj\Debug\net6.0-windows\ref\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\bin\Debug\net6.0-windows\Models.deps.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\refint\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\ref\Models.dll
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\bin\Debug\net6.0-windows\Models.runtimeconfig.json
+C:\Users\SandS\source\repos\CarShopManagementWpfApp - asli - Copy\Models\obj\Debug\net6.0-windows\Models.genruntimeconfig.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.deps.json
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.runtimeconfig.json
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\refint\Models.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\Models.genruntimeconfig.cache
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\Models\obj\Debug\net6.0-windows\ref\Models.dll

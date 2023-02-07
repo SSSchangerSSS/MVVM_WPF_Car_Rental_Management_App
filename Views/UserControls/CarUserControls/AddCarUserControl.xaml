@@ -1,0 +1,175 @@
+﻿<UserControl x:Class="Views.UserControls.CarUserControls.AddCarUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             Style="{StaticResource AddEditUserControls}">
+
+    <!--main grid-->
+    <Grid Grid.IsSharedSizeScope="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--transition for icon-->
+        <materialDesign:TransitioningContent Grid.Row="0">
+            <materialDesign:TransitioningContent.OpeningEffects>
+                <materialDesign:TransitionEffect Kind="FadeIn" />
+                <materialDesign:TransitionEffect Kind="SlideInFromTop" />
+            </materialDesign:TransitioningContent.OpeningEffects>
+            <materialDesign:PackIcon Kind="TruckAdd"
+                                     MinHeight="195"
+                                     MinWidth="195"
+                                     VerticalAlignment="Bottom"
+                                     HorizontalAlignment="Center"
+                                     Foreground="#FF673AB7" />
+        </materialDesign:TransitioningContent>
+
+        <!--grid for input groupBox-->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Margin="16"
+                      Grid.Column="1">
+
+                <GroupBox.Header>
+                    
+                    <!--stackPanel for groupbox header icon and title-->
+                    <StackPanel Orientation="Horizontal"
+                                HorizontalAlignment="Left">
+
+                        <!--car details icon-->
+                        <materialDesign:PackIcon Grid.Column="2"
+                                                 Kind="Information"
+                                                 Margin="0 0 3 0"
+                                                 VerticalAlignment="Stretch"
+                                                 HorizontalAlignment="Stretch"
+                                                 Foreground="white" />
+
+                        <!--groupbox title-->
+                        <TextBlock Style="{StaticResource AddEditUserControlsGroupBoxHeaderTextBlock}">Car Details</TextBlock>
+
+                    </StackPanel>
+
+                </GroupBox.Header>
+
+                <!--grid for inputs-->
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <!--name input-->
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"
+                                              SharedSizeGroup="spaces" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition SharedSizeGroup="spaces" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="1"
+                                   Style="{StaticResource AddEditUserControlsInputsTextBlock}"
+                                   Margin="0 0 2 0">Name:</TextBlock>
+                        <TextBox Grid.Column="2"
+                                 Style="{StaticResource AddEditUserControlsTextbox}"
+                                 Text="{Binding Name , UpdateSourceTrigger=PropertyChanged}" />
+                    </Grid>
+
+                    <!--color input-->
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition SharedSizeGroup="spaces" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition SharedSizeGroup="spaces" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="1"
+                                   Style="{StaticResource AddEditUserControlsInputsTextBlock}"
+                                   Margin="0 0 2 0">Color:</TextBlock>
+                        <TextBox Grid.Column="2"
+                                 Style="{StaticResource AddEditUserControlsTextbox}"
+                                 Text="{Binding Color , UpdateSourceTrigger=PropertyChanged}" />
+                    </Grid>
+
+                    <!--creation date input-->
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition SharedSizeGroup="spaces" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition SharedSizeGroup="spaces" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="1"
+                                   Style="{StaticResource AddEditUserControlsInputsTextBlock}"
+                                   Margin="0 0 2 0">Creation Date:</TextBlock>
+                        <DatePicker Grid.Column="2"
+                                    Style="{StaticResource AddEditUserControlsDatePicker}"
+                                    SelectedDate="{Binding CreationDate , UpdateSourceTrigger=PropertyChanged}" />
+                    </Grid>
+
+                </Grid>
+
+            </GroupBox>
+        </Grid>
+
+        <!--grid for submit and cancel buttons-->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!--transition for cancel button-->
+            <materialDesign:TransitioningContent Grid.Column="1">
+                <materialDesign:TransitioningContent.OpeningEffects>
+                    <materialDesign:TransitionEffect Kind="FadeIn" />
+                    <materialDesign:TransitionEffect Kind="SlideInFromLeft" />
+                </materialDesign:TransitioningContent.OpeningEffects>
+                <!--cancel button-->
+                <Button Style="{StaticResource AddEditUserControlsButton}"
+                        Command="{Binding CancelCommand}">
+                    <materialDesign:PackIcon Kind="CancelCircleOutline"
+                                             Width="70"
+                                             Height="70"
+                                             VerticalAlignment="Center"
+                                             HorizontalAlignment="Center"
+                                             Foreground="#FF303030" />
+                </Button>
+            </materialDesign:TransitioningContent>
+
+            <!--transition for submit button-->
+            <materialDesign:TransitioningContent Grid.Column="2">
+                <materialDesign:TransitioningContent.OpeningEffects>
+                    <materialDesign:TransitionEffect Kind="FadeIn" />
+                    <materialDesign:TransitionEffect Kind="SlideInFromRight" />
+                </materialDesign:TransitioningContent.OpeningEffects>
+                <!--submit button-->
+                <Button Style="{StaticResource AddEditUserControlsButton}"
+                        Command="{Binding SubmitCommand}">
+                    <materialDesign:PackIcon Kind="TickCircleOutline"
+                                             Width="70"
+                                             Height="70"
+                                             VerticalAlignment="Center"
+                                             HorizontalAlignment="Center"
+                                             Foreground="#FF303030" />
+                </Button>
+            </materialDesign:TransitioningContent>
+
+        </Grid>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,12 @@
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\CarRentalManagementWpfApp.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\appsettings.json
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\PenImc_cor3.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\PresentationNative_cor3.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\vcruntime140_cor3.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\wpfgfx_cor3.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\e_sqlite3.dll
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\Models.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\ViewModels.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\Views.pdb
+C:\Users\SandS\source\repos\CarRentalManagementWpfApp\CarShopManagementWpfApp\bin\Release\net6.0-windows\win-x64\publish\CarRentalManagementWpfApp.exe

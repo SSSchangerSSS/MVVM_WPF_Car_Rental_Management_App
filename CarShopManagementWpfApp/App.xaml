@@ -1,0 +1,23 @@
+﻿<Application x:Class="CarRentalManagementWpfApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--Material Design Resources-->
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <!--Material Design Resources-->
+                <!--Custom Resources-->
+                <ResourceDictionary Source="pack://application:,,,/CarRentalManagementWpfApp;component/Resources/Dictionaries/VvmDataTemplatesDictionary.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/CarRentalManagementWpfApp;component/Resources/Dictionaries/MainWindowDictionary.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/CarRentalManagementWpfApp;component/Resources/Dictionaries/MainMenuDictionary.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/CarRentalManagementWpfApp;component/Resources/Dictionaries/ViewsWithDataGridDictionary.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/CarRentalManagementWpfApp;component/Resources/Dictionaries/AddEditViewsDictionary.xaml" />
+                <!--Custom Resources-->
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
