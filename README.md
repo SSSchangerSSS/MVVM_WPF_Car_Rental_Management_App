@@ -49,8 +49,6 @@ Using transition and animation
 
 پیاده سازی عملیات CRUD به صورت Generic
 
-AutoMapper و AutoMapper dependency injection استفاده از 
-
 استفاده از material design برای طراحی ظاهر
 
 استفاده از transition و انیمیشن
