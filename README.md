@@ -20,6 +20,8 @@ Using store concepts to limit hitting the database
 
 Generic implementation of CRUD operations
 
+using AutoMapper and AutoMapper dependency injection
+
 Using material design for view
 
 Using transition and animation
@@ -46,6 +48,8 @@ Using transition and animation
 استفاده از مفاهیم store برای محدود کردن دفعات خواندن از پایگاه داده
 
 پیاده سازی عملیات CRUD به صورت Generic
+
+AutoMapper و AutoMapper dependency injection استفاده از 
 
 استفاده از material design برای طراحی ظاهر
 
