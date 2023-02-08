@@ -1,3 +1,30 @@
+A complete WPF car rental management application with MVVM architecture
+
+Concepts used in this project:
+
+Using entity framework core to communicate with the database
+
+Using sqlite database
+
+Using factory to create view models
+
+Basic implementation of navigation
+
+Basic communication for data transfer between view models
+
+Using async
+
+Implementation of dependency injection using Microsoft extensions hosting
+
+Using store concepts to limit hitting the database
+
+Generic implementation of CRUD operations
+
+Using material design for view
+
+Using transition and animation
+
+
 یک برنامه‌ی کامل مدیریت اجاره‌ی ماشین دبلیو پی اف با معماری ام وی وی ام
 
 مفاهیمی که در این پروژه استفاده شده اند:
