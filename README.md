@@ -8,7 +8,7 @@
 
 استفاده از factory برای ساخت view model ها
 
-پیاده سازی navigation
+پیاده سازی به صورت اصولی navigation
 
 ارتباط اصولی برای انتقال داده بین view model ها
 
